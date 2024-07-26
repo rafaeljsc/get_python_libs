@@ -1,0 +1,8 @@
+{
+	"url": "http://gitlab.xxx.xxx", 
+	"header": {
+		"Accept": "application/json", 
+		"Content-Type": "application/json", 
+		"Authorization": "Bearer xxxxx-xxxxxxxxx-xxxxxxxxx"
+	} 
+}
